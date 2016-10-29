@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/kurtisr/Documents/dndstuff/Sat-14th'
+let g:netrw_dirhist_2='/home/kurtisr/Documents/dndstuff'
+let g:netrw_dirhist_3='/home/kurtisr/Dropbox/DnD stuff'
+let g:netrw_dirhist_4='/home/kurtisr/Dropbox/DnD stuff/plot'
+let g:netrw_dirhist_5='/home/kurtisr/Documents/University/Phys 385'
+let g:netrw_dirhist_6='/home/kurtisr/workspace/ENSC251/Part2-1167-Updated/src'

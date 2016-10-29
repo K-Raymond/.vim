@@ -1,0 +1,4 @@
+My vim configuration
+
+As of Vim 7.4, vim takes the configuration file from both home and the .vim/ folder. So to use this configuration, delete ~/.vimrc, and clone into ~/.vim/.
+
